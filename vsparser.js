@@ -4,6 +4,7 @@ var tudou = "www.tudou.com";
 var ku6 = "v.ku6.com";
 var ifeng = "v.ifeng.com";
 var bilibili = "www.bilibili.tv";
+var vqq = "v.qq.com";
 
 function vsparser(url){
 	var v_type = url.split("/")[2];
